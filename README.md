@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nipun3011
-- 👀 I’m interested in Game Dev and Software Dev.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on a machine learning project.
-- 📫 How to reach me email- agrawalnipun68@gmail.com, linkedIn- www.linkedin.com/in/nipun-agrawal3011/
+# Hi, I’m Nipun.
+- 👀 I’m interested in Data Science and Full Stack Development.
+- 🌱 I’m looking to grow my career in Software Development.
+- 🧠 I’m currently learning Natural Language Processing. 
+- 📫 How to reach me email- agrawalnipun68@gmail.com, linkedIn- www.linkedin.com/in/nipun-agr/
 
 <!---
 nipun3011/nipun3011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
